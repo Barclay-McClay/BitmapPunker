@@ -1,5 +1,5 @@
 # Bitmap Punker
-
+![](https://github.com/Barclay-McClay/BitmapPunker/blob/main/demo.gif)
 Requires
 
 Google Chrome installed on Windows PC with Python 3
